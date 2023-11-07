@@ -1,4 +1,4 @@
-# A pytorch implementation for model "DIOR" 
+# DIOR: Learning to Hash With Label Noise Via Dual Partition and Contrastive Learning
 
 ## REQUIREMENTS
 1. pytorch 1.4
